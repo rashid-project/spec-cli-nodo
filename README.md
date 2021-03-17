@@ -1,2 +1,3 @@
-# spec-cli-nodo
+# Specification: Nodo CLI
+
 A CLI based to do list application
