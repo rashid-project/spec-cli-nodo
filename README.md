@@ -1,3 +1,3 @@
 # Specification: Nodo CLI
 
-A CLI based to do list application
+A CLI based to-do list application
